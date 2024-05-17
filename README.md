@@ -1,4 +1,3 @@
 # sample
 project
 
-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
